@@ -1,0 +1,40 @@
+body{
+  background: rgb(194, 141, 243);
+
+}
+#mostrador{
+  margin: auto;
+  margin-top: 2.5rem;
+  width: 23.75rem;
+  border-radius: 10rem;
+  background: white;
+  padding-top: .3125rem;
+  font: italic 20pt Arial;
+ 
+  
+  
+}
+.espaço{
+  width: 5rem;
+  height: 5rem;
+  border: .125rem solid black;
+  float: left;
+  text-align: center;
+ 
+  background: white;
+  border-radius: .625rem;
+  
+}
+#tabuleiro{
+  margin: auto;
+  width: 15.75rem;
+  margin-top: 2.5rem;
+  height: 215.75rem;
+  
+}
+footer{
+  margin: auto;
+  width: 15.75rem;
+  text-align: center;
+  font: italic 20pt Arial;
+}
